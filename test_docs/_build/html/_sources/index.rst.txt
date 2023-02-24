@@ -34,3 +34,10 @@ Should show inheritance and members.
     :show-inheritance:
     :members:
 
+Example Function
+++++++++++++++++
+Should show parameter and return values.
+
+.. autofunction:: f_example
+
+.. _f_with_nested_function:
